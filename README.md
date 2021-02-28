@@ -2,7 +2,7 @@
 
 requirements need for this project 
 
-asgiref==3.3.1
+asgiref==3.3.1 \n
 certifi==2020.12.5
 cffi==1.14.5
 chardet==4.0.0
